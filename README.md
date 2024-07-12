@@ -1,4 +1,4 @@
-# Data Scientist
+# Cloud Developer
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
